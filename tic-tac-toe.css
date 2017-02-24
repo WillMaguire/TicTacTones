@@ -1,0 +1,106 @@
+@import 'https://fonts.googleapis.com/css?family=Electrolize|Orbitron';
+
+body {
+  background: url('mixer.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;;
+  background-position: center;
+  color: #000000
+}
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  text-align: center;
+}
+.wrapper {
+    width: 330px;
+    margin:0 auto;
+}
+.gameboard {
+    width: 330px;
+    height:310px;
+    z-index: 1;
+}
+.gameboard div {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.gameboardInner {
+
+}
+.player1Img {
+  background: url('EQ.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+}
+.player2Img {
+  background: url('EQ2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: contain;
+}
+.gameStatus {
+  font-family: 'Orbitron', sans-serif;
+  color: white;
+  text-align: center;
+  width: 330px;
+  height:100px;
+  padding-top: 50px;
+  font-size: 14pt;
+  z-index: 1;
+  margin: 0 auto;
+}
+#topLeft {
+  border-bottom: 3px solid #E8E8E8;
+  border-right: 3px solid #E8E8E8;
+  border-radius: 15%;
+}
+#middleTop {
+    border-left: 3px solid #E8E8E8;
+    border-right: 3px solid #E8E8E8;
+    border-bottom: 3px solid #E8E8E8;
+    border-radius: 15%;
+}
+#topRight {
+  border-left: 3px solid #E8E8E8;
+  border-bottom: 3px solid #E8E8E8;
+  border-radius: 15%;
+}
+#middleLeft {
+    border-top: 3px solid #E8E8E8;
+    border-bottom: 3px solid #E8E8E8;
+    border-right: 3px solid #E8E8E8;
+    border-radius: 15%;
+}
+#middle {
+    border: 3px solid #E8E8E8;
+    border-radius: 15%;
+}
+
+#middleRight {
+    border-top: 3px solid #E8E8E8;
+    border-bottom: 3px solid #E8E8E8;
+    border-left: 3px solid #E8E8E8;
+    border-radius: 15%;
+}
+#bottomLeft {
+  border-top: 3px solid #E8E8E8;
+  border-right: 3px solid #E8E8E8;
+  border-radius: 15%;
+
+}
+#middleBottom {
+    border-left: 3px solid #E8E8E8;
+    border-right: 3px solid #E8E8E8;
+    border-top: 3px solid #E8E8E8;
+    border-radius: 15%;
+}
+#bottomRight {
+  border-left: 3px solid #E8E8E8;
+  border-top: 3px solid #E8E8E8;
+  border-radius: 15%;
+}
