@@ -57,50 +57,50 @@ h1 {
 #topLeft {
   border-bottom: 3px solid #E8E8E8;
   border-right: 3px solid #E8E8E8;
-  border-radius: 15%;
+/*   border-radius: 15%; */
 }
 #middleTop {
     border-left: 3px solid #E8E8E8;
     border-right: 3px solid #E8E8E8;
     border-bottom: 3px solid #E8E8E8;
-    border-radius: 15%;
+/*     border-radius: 15%; */
 }
 #topRight {
   border-left: 3px solid #E8E8E8;
   border-bottom: 3px solid #E8E8E8;
-  border-radius: 15%;
+/*   border-radius: 15%; */
 }
 #middleLeft {
     border-top: 3px solid #E8E8E8;
     border-bottom: 3px solid #E8E8E8;
     border-right: 3px solid #E8E8E8;
-    border-radius: 15%;
+/*     border-radius: 15%; */
 }
 #middle {
     border: 3px solid #E8E8E8;
-    border-radius: 15%;
+/*     border-radius: 15%; */
 }
 
 #middleRight {
     border-top: 3px solid #E8E8E8;
     border-bottom: 3px solid #E8E8E8;
     border-left: 3px solid #E8E8E8;
-    border-radius: 15%;
+/*     border-radius: 15%; */
 }
 #bottomLeft {
   border-top: 3px solid #E8E8E8;
   border-right: 3px solid #E8E8E8;
-  border-radius: 15%;
+/*   border-radius: 15%; */
 
 }
 #middleBottom {
     border-left: 3px solid #E8E8E8;
     border-right: 3px solid #E8E8E8;
     border-top: 3px solid #E8E8E8;
-    border-radius: 15%;
+/*     border-radius: 15%; */
 }
 #bottomRight {
   border-left: 3px solid #E8E8E8;
   border-top: 3px solid #E8E8E8;
-  border-radius: 15%;
+/*   border-radius: 15%; */
 }
